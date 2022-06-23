@@ -1,16 +1,16 @@
 {
-    "user": [
-        {
-            "name": "Joao Oliveira",
-            "email": "joaoliveira@cod3r.com.br",
-            "id": 1
-        },
-        {
-            "name": "Maria Silva",
-            "email": "mariasilva@empresa.com",
-            "id": 2
-        }
-    ],
-    "card": [],
-    "game": []
+  "user": [
+    {
+      "name": "mariana",
+      "email": "mariana@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Maria Silva",
+      "email": "mariasilva@empresa.com",
+      "id": 2
+    }
+  ],
+  "card": [],
+  "game": []
 }

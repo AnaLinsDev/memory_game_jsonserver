@@ -1,4 +1,4 @@
 # Memory Game Jsonserver
 
 - yarn add json-server
-- json-server db.json
+- json-server --watch db.json --port 8000
