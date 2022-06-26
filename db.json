@@ -1,16 +1,18 @@
 {
-  "user": [
+  "users": [
     {
-      "name": "mariana",
+      "username": "mafffana",
       "email": "mariana@gmail.com",
+      "password": "123123",
       "id": 1
     },
     {
-      "name": "Maria Silva",
+      "username": "Maria Silva",
       "email": "mariasilva@empresa.com",
+      "password": "123123",
       "id": 2
     }
   ],
-  "card": [],
-  "game": []
+  "cards": [],
+  "games": []
 }
