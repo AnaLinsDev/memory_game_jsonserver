@@ -11,8 +11,55 @@
       "email": "mariasilva@empresa.com",
       "password": "123123",
       "id": 2
+    },
+    {
+      "username": "ana",
+      "email": "ana@gmail.com",
+      "password": "123123",
+      "id": 3
     }
   ],
-  "cards": [],
+  "cards": [
+    {
+      "id": 0,
+      "icon": "mdi-star-crescent"
+    },
+    {
+      "id": 1,
+      "icon": "mdi-star-circle "
+    },
+    {
+      "id": 2,
+      "icon": "mdi-bird"
+    },
+    {
+      "id": 3,
+      "icon": "mdi-cards-heart"
+    },
+    {
+      "id": 4,
+      "icon": "mdi-cards-club"
+    },    
+    {
+      "id": 5,
+      "icon": "mdi-cards-diamond"
+    },
+    {
+      "id": 6,
+      "icon": "mdi-cloud"
+    },
+    {
+      "id": 7,
+      "icon": "mdi-dolphin"
+    },
+    {
+      "id": 8,
+      "icon": "mdi-skull"
+    },
+    {
+      "id": 9,
+      "icon": "mdi-unicorn-variant "
+    }
+  ],
   "games": []
 }
