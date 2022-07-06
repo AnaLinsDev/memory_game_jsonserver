@@ -39,7 +39,7 @@
     {
       "id": 4,
       "icon": "mdi-cards-club"
-    },    
+    },
     {
       "id": 5,
       "icon": "mdi-cards-diamond"
@@ -61,5 +61,46 @@
       "icon": "mdi-unicorn-variant "
     }
   ],
-  "games": []
+  "games": [
+    {
+      "maxAttempts": 1,
+      "attempts": 1,
+      "isWinner": false,
+      "difficulty": "Easy",
+      "userId": 3,
+      "date": "06/07/2022",
+      "time": "15:58:18",
+      "id": 1
+    },
+    {
+      "maxAttempts": 1,
+      "attempts": 1,
+      "isWinner": false,
+      "difficulty": "Easy",
+      "userId": 3,
+      "date": "06/07/2022",
+      "time": "16:12:54",
+      "id": 2
+    },
+    {
+      "maxAttempts": 16,
+      "attempts": 7,
+      "isWinner": true,
+      "difficulty": "Easy",
+      "userId": 3,
+      "date": "06/07/2022",
+      "time": "16:13:18",
+      "id": 3
+    },
+    {
+      "maxAttempts": 16,
+      "attempts": 7,
+      "isWinner": true,
+      "difficulty": "Easy",
+      "userId": 3,
+      "date": "06/07/2022",
+      "time": "16:16:09",
+      "id": 4
+    }
+  ]
 }
